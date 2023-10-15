@@ -1,0 +1,5 @@
+name: Hiven
+version: '${project.version}'
+main: fr.hivenstudio.Main
+api-version: 1.20
+authors: [ Deglam, 0xKanoe ]
